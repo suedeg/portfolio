@@ -1,14 +1,7 @@
-<style>
 
-body {
-  font-family: 'Reenie Beanie', cursive;
-  color: white;
-  font-family: 'News Cycle', sans-serif;
-  background: url(background2.png) no-repeat center center fixed;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-style: cover;
-  -o-background-style: cover;
-    }
-  
-  </style>\
+  <html>
+<body background="bgimage.jpg">
+<h1>Hello world!</h1>
+<p><a href="https://www.w3schools.com">Visit W3Schools.com!</a></p>
+</body>
+</html>
